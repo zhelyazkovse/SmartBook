@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Fall of Light",
+    "Author": "Steven Erikson",
+    "ISBN": "1111111111337",
+    "Category": "Fantasy",
+    "SourceLibrary": "Kharkanas",
+    "IsAvailable": true
+  },
+  {
+    "Title": "Forge of Darkness",
+    "Author": "Steven Erikson",
+    "ISBN": "1333333333777",
+    "Category": "Fantasy",
+    "SourceLibrary": "Kharkanas",
+    "IsAvailable": true
+  },
+  {
+    "Title": "Fall of Light",
+    "Author": "Steven Erikson",
+    "ISBN": "1111111111112",
+    "Category": "Fantasy",
+    "SourceLibrary": "Kharkanas",
+    "IsAvailable": true
+  }
+]

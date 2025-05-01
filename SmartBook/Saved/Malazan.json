@@ -1,0 +1,34 @@
+[
+  {
+    "Title": "The Crippled God",
+    "Author": "Steven Erikson",
+    "ISBN": "1111333333777",
+    "Category": "Fantasy",
+    "SourceLibrary": "Malazan",
+    "IsAvailable": true
+  },
+  {
+    "Title": "Gardens of the Moon",
+    "Author": "Steven Erikson",
+    "ISBN": "1111133333777",
+    "Category": "Fantasy",
+    "SourceLibrary": "Malazan",
+    "IsAvailable": true
+  },
+  {
+    "Title": "House of Chains",
+    "Author": "Steven Erikson",
+    "ISBN": "1111113333777",
+    "Category": "Fantasy",
+    "SourceLibrary": "Malazan",
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Bonehunters",
+    "Author": "Steven Erikson",
+    "ISBN": "1333333777777",
+    "Category": "Fantasy",
+    "SourceLibrary": "Malazan",
+    "IsAvailable": true
+  }
+]

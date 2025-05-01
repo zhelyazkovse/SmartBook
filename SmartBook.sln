@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBook", "SmartBook\SmartBook.csproj", "{842013E2-C522-4051-BA86-4A8462F72F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBook.Tests", "SmartBook.Tests\SmartBook.Tests.csproj", "{E11F51CF-C2AA-4E85-B4E4-CC81114744A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842013E2-C522-4051-BA86-4A8462F72F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842013E2-C522-4051-BA86-4A8462F72F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842013E2-C522-4051-BA86-4A8462F72F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842013E2-C522-4051-BA86-4A8462F72F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11F51CF-C2AA-4E85-B4E4-CC81114744A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11F51CF-C2AA-4E85-B4E4-CC81114744A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11F51CF-C2AA-4E85-B4E4-CC81114744A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11F51CF-C2AA-4E85-B4E4-CC81114744A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CD76C7-19F5-46E5-BDE3-C36BC9700B2E}
+	EndGlobalSection
+EndGlobal
