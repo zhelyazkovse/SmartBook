@@ -12,7 +12,7 @@ SmartBook is a simple C# console-based library management system. It allows user
 - 🔍 Search books by title, author, or ISBN.
 - 🔄 Toggle availability (checked out / available).
 - 💾 Save books to a JSON file (as a library).
-- 📂 Load a saved library and automatically tag each book with the source filename.
+- 📂 Load a saved library.
 
 ---
 
